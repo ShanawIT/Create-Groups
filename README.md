@@ -1,14 +1,12 @@
-<h1>Create Users Manually in Okta </h1>
-Manually created user accounts directly within the Okta environment. Created two new users,
-configured their basic profile information, to become familiar with the user creation process
-commonly used by IAM administrators when onboarding new employees or contractors.
+<h1>Creating Groups in Okta </h1>
+Manually created three security groups directly within the Okta environment.
 <br />
 <h2>Environments and Technologies Used</h2>
 - Okta
 <h2>Operating Systems Used </h2>
 - Windows 11
-<h2>Created the two users Amy Adams and Renee Hayes manually.
+<h2>The groups are titled Sales, HR, IT for our Sales, HR, IT departments.
 </h2>
 <p>
-<img width="982" height="122" alt="image"
-src="https://github.com/user-attachments/assets/7ec48c2c-3244-47b9-bb64-917eae155727" />
+<img width="1057" height="572" alt="image"
+src="https://github.com/user-attachments/assets/57ea6be9-4362-452f-a0f5-958104c892fa" />
