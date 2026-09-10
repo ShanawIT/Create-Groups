@@ -10,5 +10,5 @@ Manually created three security groups directly within the Okta environment.
 <h2>The groups are titled Sales, HR, IT for our Sales, HR, IT departments.
 </h2>
 <p>
-<img width="1057" height="572" alt="image"
-src="https://github.com/user-attachments/assets/57ea6be9-4362-452f-a0f5-958104c892fa" />
+<img width="1068" height="714" alt="Screenshot 2026-09-10 at 5 38 00 PM" src="https://github.com/user-attachments/assets/7179b60f-b40d-474e-9c78-c7d1ebe84d4f" />
+
