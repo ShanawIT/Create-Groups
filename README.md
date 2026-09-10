@@ -4,7 +4,9 @@ Manually created three security groups directly within the Okta environment.
 <h2>Environments and Technologies Used</h2>
 - Okta
 <h2>Operating Systems Used </h2>
-- Windows 11
+- MacOS - Primary operating system used
+
+- Windows 11 - Familiar with performing
 <h2>The groups are titled Sales, HR, IT for our Sales, HR, IT departments.
 </h2>
 <p>
